@@ -4,12 +4,11 @@ Hi 👋 My name is Brendan Ball
 Full-stack Web Developer and Designer  
 -------------------------------------
 
-I’m a Computer Science graduate with experience in full-stack development, working with PHP, C#, Vue, React, Tailwind, and Bootstrap (4 & 5). I have strong database expertise with MariaDB, MySQL, MSSQL, and SQLite, and I’m passionate about building clean, efficient, and scalable applications.
+I'm a full-stack developer with 3 years of experience, specializing in PHP, C#, Laravel, SvelteKit, and Vue, with a strong focus on API development and scalable back-end systems.
 
 - 🌍  I'm based in Canada  
 - 🖥️  See my portfolio at [Portfolio](http://dev.bmball.com)  
 - ✉️  You can contact me at [ball.brendan10@gmail.com](mailto:ball.brendan10@gmail.com)  
-- 🧠  I'm learning inertia.js, vue3, and laravel  
 
 ### Skills
 
