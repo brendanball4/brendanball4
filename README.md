@@ -12,7 +12,7 @@ I'm a full-stack developer with 3 years of experience, specializing in PHP, C#, 
 
 ### Skills
 
-![](https://skillicons.dev/icons?i=php,cs,mysql,laravel,vue,react,tailwind,bootstrap,git,vscode)
+![](https://skillicons.dev/icons?i=php,cs,mysql,mariadb,laravel,svelte,vue,react,tailwind,bootstrap,html,css,git,vscode)
 
 ### Socials
 
