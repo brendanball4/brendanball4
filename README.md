@@ -15,7 +15,7 @@ I’m a Computer Science graduate with experience in full-stack development, wor
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=php,cs,mysql,laravel,vue,react,tailwind,bootstrap,git,vscode)
+![](https://skillicons.dev/icons?i=php,cs,mysql,laravel,vue,react,tailwind,bootstrap,git,vscode)
 
 ### Socials
 
